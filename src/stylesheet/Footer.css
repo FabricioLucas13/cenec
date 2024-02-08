@@ -1,0 +1,26 @@
+/* Footer.css */
+.footer {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content a {
+    margin: 0 10px;
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
+
+.footer-content a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center; /* Alinea los iconos a la derecha */
+}
+
+.social-icons .react-social-icons {
+    margin-right: 15px; /* Añade un margen a la derecha de cada icono */
+}

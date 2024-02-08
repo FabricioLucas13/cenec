@@ -1,0 +1,50 @@
+{
+    "line1": [
+        {
+            "text": "Tablón de información",
+            "url": "/informacion"
+        },
+        {
+            "text": "Aviso Legal",
+            "url": "/legal"
+        },
+        {
+            "text": "Política de Cookies",
+            "url": "/cookies"
+        },
+        {
+            "text": "Política de Privacidad",
+            "url": "/privacidad"
+        },
+        {
+            "text": "Política de Calidad",
+            "url": "/calidad"
+        }
+    ],
+    "line2": [
+        {
+            "text": "Bootcamp Web FullStack",
+            "url": "/web-fullstack"
+        },
+        {
+            "text": "Bootcamp Java",
+            "url": "/java"
+        },
+        {
+            "text": "Tech Program Big Data",
+            "url": "/big-data"
+        },
+        {
+            "text": "Tech Program Redes y Ciberseguridad",
+            "url": "/ciberseguridad"
+        },
+        {
+            "text": "BLOG",
+            "url": "/blog"
+        },
+        {
+            "text": "Contáctanos",
+            "url": "/contacto"
+        }
+    ]
+}

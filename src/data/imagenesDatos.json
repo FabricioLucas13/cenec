@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "damdaw",
+    "alt": "Esta es la descripción de la imagen 1",
+    "titulo": "Dam & Daw",
+    "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia",
+    "enlace": "https://www.ejemplo.com"
+  },
+  {
+    "nombre": "ucam",
+    "alt": "Esta es la descripción de la imagen 2",
+    "titulo": "Convenio con la UCAM",
+    "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia",
+    "enlace": "https://www.cenecmalaga.es/nuevo-convenio-con-la-ucam.html"
+  },
+  {
+    "nombre": "kitdigital",
+    "alt": "Esta es la descripción de la imagen 3",
+    "titulo": "Kit Digital",
+    "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia",
+    "enlace": "https://www.ejemplo.com"
+  },
+  {
+    "nombre": "bolsadeempleo",
+    "alt": "Esta es la descripción de la imagen 4",
+    "titulo": "Bolsa de empleo",
+    "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia",
+    "enlace": "https://www.ejemplo.com"
+  },
+  {
+    "nombre": "formacionprofesional",
+    "alt": "Esta es la descripción de la imagen 5",
+    "titulo": "Formación profesional",
+    "texto": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim venia",
+    "enlace": "https://www.ejemplo.com"
+  }
+]

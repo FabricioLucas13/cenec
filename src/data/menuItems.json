@@ -1,0 +1,41 @@
+[
+    {
+      "text": "Inicio",
+      "url": "/"
+    },
+    {
+      "text": "DAM y DAW",
+      "url": "/dam-y-daw"
+    },
+    {
+      "text": "Cursos",
+      "url": "/cursos",
+      "submenu": [
+        {
+          "text": "Cursos publicos"
+        },
+        {
+          "text": "Cursos privados"
+        },
+        {
+          "text": "Formación profesional"
+        },
+        {
+          "text": "Language School"
+        }
+      ]
+    },
+    {
+      "text": "Convenio con la UCAM"
+    },
+    {
+      "text": "Kit Digital"
+    },
+    {
+      "text": "Conocenos"
+    },
+    {
+      "text": "Noticias"
+    }
+  ]
+  

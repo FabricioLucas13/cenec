@@ -1,0 +1,61 @@
+.header {
+    display: flex;
+    justify-content: flex-start; /* Cambia 'space-between' a 'flex-start' para mover el menú más cerca del logo */
+    align-items: center;
+    background-color: #0059f1; 
+    padding: 10px 50px; 
+}
+
+.logo {
+    color: white;
+    margin-right: 50px; /* Añade un margen a la derecha del logo para dar más espacio entre el logo y el menú */
+}
+
+.navigation ul {
+    list-style-type: none;
+    padding-left: 0; /* Elimina el relleno izquierdo de la lista */
+}
+
+.navigation li {
+   position: relative; /* Añade posición relativa a los elementos del menú principal */
+   display:inline-block; /* Cambia a inline-block para permitir elementos de bloque internos */
+   margin-right:50px; 
+   color:white; 
+}
+
+.menu-item:hover {
+    color: #ffd700; 
+}
+
+.submenu {
+    display: none; 
+    position:absolute;
+    left: 0; 
+    top: 100%; /* Alinea el submenú justo debajo del elemento del menú principal */
+    min-width: 160px; /* Añade un ancho mínimo al submenú */
+    background-color:#0059f1;
+    padding: 10px; 
+    border-radius: 5px;
+    z-index: 2;
+}
+
+.submenu li {
+    display: block; 
+    margin-right: 0; 
+    padding: 5px 0; 
+}
+
+.navigation li:hover .submenu {
+   display:block; 
+}
+
+.submenu li:hover {
+    color: #ffd700; /* Cambia esto al color que prefieras */
+}
+
+.navigation li, .submenu li {
+    cursor: pointer; /* Cambia el cursor a una 'mano' cuando pasas el ratón sobre estos elementos */
+}
+
+
+
